@@ -4,7 +4,7 @@
 
 <img width="450px" src="/src/img/preview.png"/>
 
-<br><br>
+<br>
 
 <h1>🛠️ Tecnologias utilizadas</h1>
 <ul>
