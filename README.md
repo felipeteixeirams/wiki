@@ -11,15 +11,15 @@
     <li>Html</li>
     <li>CSS</li>
 </ul>
-<br><br>
+<br>
 
 <h1>🪄 Como utilizar</h1>
 <p>Baixe e execute o arquivo <strong>index.html</strong> localizado na raíz do projeto.</p>
-<br><br>
+<br>
 
 <h1>✨ Layout</h1>
 <p>Criado por: <a url="https://github.com/felipeteixeirams/" target="_blank">Felipe Teixeira</a>.</p>
-<br><br>
+<br>
 
 <h1>📃 Licença</h1>
 <p>Este projeto é aberto para utilização.</p>
