@@ -2,6 +2,8 @@
 <dd>Projeto de site inspirado na Wikipédia, projeto final do curso de HTML e CSS - Fundamentos da escola de cursos para desenvolvedores <a href="https://www.treinaweb.com.br/">TreinaWeb</a>.</dd>
 <br>
 
+Visualizar: https://felipeteixeirams.github.io/wiki/
+
 <img width="450px" src="/src/img/preview.png"/>
 
 <br>
